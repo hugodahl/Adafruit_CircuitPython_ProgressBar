@@ -1,3 +1,7 @@
+# Copyright (C) 2020 Brent Rubell for Adafruit Industries
+#
+# SPDX-License-Identifier: MIT
+
 """
 Basic progressbar example script
 adapted for use on MagTag.

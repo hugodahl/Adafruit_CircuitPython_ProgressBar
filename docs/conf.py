@@ -1,3 +1,7 @@
+# Copyright (C) 2021 Adafruit Industries
+#
+# SPDX-License-Identifier: MIT
+
 # -*- coding: utf-8 -*-
 
 import os

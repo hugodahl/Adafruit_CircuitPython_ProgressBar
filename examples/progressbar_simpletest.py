@@ -1,3 +1,7 @@
+# Copyright (C) 2020 Brent Rubell for Adafruit Industries
+#
+# SPDX-License-Identifier: MIT
+
 import time
 import board
 import displayio

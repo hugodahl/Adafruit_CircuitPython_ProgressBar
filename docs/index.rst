@@ -1,3 +1,7 @@
+.. Copyright (C) 2021 Adafruit Industries
+..
+.. SPDX-License-Identifier: MIT
+
 .. include:: ../README.rst
 
 Table of Contents
